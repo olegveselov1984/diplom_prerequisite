@@ -7,8 +7,9 @@
 1. Получилось ли у вас загрузить в личный кабинет документы, подтверждающие личность, и диплом о высшем или среднем специальном образовании
 ```
 а) Да
-<img width="1021" height="1023" alt="image" src="https://github.com/user-attachments/assets/8081ea1b-b2cb-4046-a5ea-38dd435b22d0" />
 ```
+<img width="1021" height="1023" alt="image" src="https://github.com/user-attachments/assets/8081ea1b-b2cb-4046-a5ea-38dd435b22d0" />
+
 
 
 Пришлите ссылку на скриншот личного кабинета.
